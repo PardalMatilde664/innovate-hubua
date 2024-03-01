@@ -1,0 +1,27 @@
+{
+  "name": "innovate-hubua",
+  "description": "innovate-hubua",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/PardalMatilde664",
+  "repository": {
+    "url": "https://github.com/PardalMatilde664/innovate-hubua"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "innovate",
+    "oss",
+    "hubua"
+  ],
+  "author": "PardalMatilde664",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
